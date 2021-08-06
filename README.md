@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @decentralvision
+- 👋 Hi, I’m Tom K.
 - 👀 I’m interested in decentralized information technologies.
 - 🌱 I’m currently learning Web3, Shopify, Solidity
 - 💞️ I’m looking to collaborate on blockchain projects, advanced marketing tech, fintech
