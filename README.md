@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tom K.
 - 👀 I’m interested in decentralized information technologies.
-- 🌱 I’m currently learning Web3, Shopify, Solidity
+- 🌱 I’m currently learning Neural Networks, FinTech, Automation
 - 💞️ I’m looking to collaborate on blockchain projects, advanced marketing tech, fintech
 - 📫 How to reach me .. Email
 
