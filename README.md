@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Tom K.
-- 👀 I’m interested in decentralized information technologies.
 - 🌱 I’m currently learning Neural Networks, FinTech, Automation
 - 📫 How to reach me .. Email
 
